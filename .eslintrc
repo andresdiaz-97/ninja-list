@@ -1,3 +1,7 @@
 {
   "extends": ["next", "next/core-web-vitals"]
+  // "rules": {
+  //   // This is to use img instead of Image
+  //   "@next/next/no-img-element": "off"
+  // }
 }
